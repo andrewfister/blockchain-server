@@ -1,0 +1,9 @@
+[package]
+name = "blockchain-server"
+version = "0.1.0"
+authors = ["Andrew Fister <temposs@gmail.com>"]
+
+[dependencies]
+zmq = "0.8"
+ring = "0.11.0"
+mysql = "11.2.0"
