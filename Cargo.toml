@@ -6,4 +6,4 @@ authors = ["Andrew Fister <temposs@gmail.com>"]
 [dependencies]
 zmq = "0.8"
 ring = "0.11.0"
-mysql = "11.2.0"
+mysql = "11.3.0"
